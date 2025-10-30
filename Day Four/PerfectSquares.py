@@ -1,7 +1,7 @@
 def perfect_squares(numbers):
     
     for number in numbers:
-        if number < 0:```````
+        if number < 0:
             return False
                         
         is_perfect = False
