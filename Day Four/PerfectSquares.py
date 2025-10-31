@@ -17,7 +17,7 @@ def perfect_squares(numbers):
             
     return True
 
-test_list1 = [4, 9, 25, 49]
+test_list1 = [4, 9, 25, 49, 101]
 print(f"List: {test_list1}")
 print(f"All elements are perfect squares: {perfect_squares(test_list1)}\n")
 
